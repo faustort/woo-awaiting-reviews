@@ -1,7 +1,7 @@
-=== WooCommerce Awaiting Review Products ===
+=== Woo Awaiting Review Products ===
 Contributors: zarausto
 Donate link: www.nw2web.com.br
-Tags: comments, review, products, woocommerce
+Tags: comments, review, products
 Requires at least: 3.0.1
 Tested up to: 3.4
 Stable tag: 4.3
